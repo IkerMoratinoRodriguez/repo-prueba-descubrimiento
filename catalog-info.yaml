@@ -1,0 +1,8 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "Descubrimiento catálogo"
+spec:
+  type: service
+  owner: NTTData
+  lifecycle: experimental
